@@ -6,6 +6,7 @@ class Solution {
 
         char[][] board = new char[n][n];
 
+
         // Fill board with '.'
         for (int i = 0; i < n; i++) {
             Arrays.fill(board[i], '.');
